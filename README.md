@@ -1,0 +1,2 @@
+# Project_mini
+mini_project_useing_python
